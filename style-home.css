@@ -1,17 +1,23 @@
     	body{
+            background: #F0FFF0;           
     		
     	}
+        nav a:hover{
+            color: #C78C19;
+            text-decoration: underline;
+        }
 
         #banner {
             width: 100%;
         }
         .principal{
-            background: #CCCCCC;
-            padding: 30px;
+            background: #556B2F;
+            padding: 20px;
         }
 
     	.titulo-centralizado{
     		text-align: center;
+            font-size: 25px;
     	}
         .titulo-principal{
             padding-left: 20px;
@@ -26,25 +32,32 @@
     	}
 
     	em strong {
-    		color: #FF0000;
-    	}
-
+    		color: #8B0000;
+    	}      
         .itens{
             font-style: italic;
+            font-size: 18px;          
+
         }
         .beneficios{
-            background: :#FFFFFF;
+            background: #8B0000;
         }
        
         ul{
             display: inline-block;
             vertical-align: top;
-            width: 20%;
+            width: 25%;
             margin-right: 15%;
         }
         .imagembeneficios{
             width: 50%;
-
+        }
+        nav a{
+            text-transform: uppercase;
+            color: #000000;
+            font-weight: bold;
+            font-size: 15px;
+            text-decoration: none;
         }
 
 

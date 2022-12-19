@@ -2,13 +2,11 @@ header{
     background: #F0FFF0;
     padding: 20px 0;
 }
-
 .caixa{
     position: relative;
     width: 940px;
     margin: 0 auto;
 }
-
 nav{
     position: absolute;
     top: 110px;
@@ -22,7 +20,7 @@ nav a{
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 25px;
     text-decoration: none;
 }
 nav a:hover{
@@ -62,10 +60,10 @@ nav a:hover{
 	font-weight: bold;
 }
 .produto-descricao{
-	font-size: 18px;
+	font-size: 25px;
 }
 .produto-preco{
-	font-size: 22px;
+	font-size: 25px;
 	font-weight: bold;
 	margin-top: 10px;
 }
