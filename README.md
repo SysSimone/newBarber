@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/75712842/215630660-6d209a94-b0c6-4b1a-ad63-c7965d528e5a.mp4
+
 # newBarber
 Site da barbearia Alura
 
