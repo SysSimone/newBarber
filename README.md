@@ -5,6 +5,9 @@ https://user-images.githubusercontent.com/75712842/215630660-6d209a94-b0c6-4b1a-
 # newBarber
 Site da barbearia Alura
 
+link da página:
+https://syssimone.github.io/newBarber/
+
 Projeto desenvolvido durante  o   programa
 ONE (Oracle Next Education) 
 
